@@ -1,11 +1,11 @@
 # TTILE: Tower Breakers
 
 # Notes:
-It's a trick. So for the case with 6, we have the options 3, 5. Why? Because 6-3=3; 6/3 = 2 with 0 remainder. 6-5=1; 6/1 = 6 with 0 remainder. 
-So the trick is that what you remove should leave the tower with enough so that the initial value divides exactly by it (no remainder!).
-Then, at the end, they throw it all out the window and say "the players always choose optimally. 
-"Optimally" means that you always try to "destroy" the tower, meaning you leave it with 1.
-So basically every player always reduces a tower down to 1 and hopes he wins. See above comments for a more elaborate explanation.
+# It's a trick. So for the case with 6, we have the options 3, 5. Why? Because 6-3=3; 6/3 = 2 with 0 remainder. 6-5=1; 6/1 = 6 with 0 remainder. 
+# So the trick is that what you remove should leave the tower with enough so that the initial value divides exactly by it (no remainder!).
+# Then, at the end, they throw it all out the window and say "the players always choose optimally. 
+# "Optimally" means that you always try to "destroy" the tower, meaning you leave it with 1.
+# So basically every player always reduces a tower down to 1 and hopes he wins. See above comments for a more elaborate explanation.
 
 # Even though I got the answer and the underlying logic, I still think this is actually a very tough problem. I say so because of the following reasons:
 # You have to first understand the complicated game and its rules properly (slightly challenging)
